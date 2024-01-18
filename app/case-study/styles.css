@@ -1,0 +1,73 @@
+.primaryHeading {
+  @apply font-bold text-xl md:text-3xl lg:text-[40px] xl:text-[40px]   text-center text-white;
+}
+
+.secondaryHeading {
+  @apply font-semibold text-3xl md:text-4xl leading-[45.36px] text-white text-center;
+}
+
+.para {
+  @apply font-extralight text-sm md:text-sm lg:text-lg leading-[22.68px] text-justify md:text-center;
+}
+
+.cardBg {
+  @apply bg-[#1A1A1A];
+}
+
+.cardHeading {
+  @apply font-extralight text-center capitalize;
+}
+
+.cardDesc {
+  @apply font-medium text-xl md:text-2xl leading-[30.24px] text-center capitalize;
+}
+
+.heroSection {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("../../public/assets/fnbCaseStudy.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.fnb_clients {
+  background-image: url("../../public/assets/fnb_bg2.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.wwiPrimaryHeading {
+  @apply font-bold text-xl md:text-4xl lg:text-[48px]  text-white;
+}
+
+.wwiMarqueeContainer {
+  overflow: hidden;
+  display: flex;
+}
+
+.wwiMarqueeContent {
+  display: flex;
+  animation: marquee 10s linear infinite;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.wwiMarqueTxt {
+  @apply font-medium lg:text-[28px] leading-[35.28px] uppercase  whitespace-nowrap mr-[75px];
+}
+
+.wwiPara {
+  @apply font-extralight text-sm md:text-base lg:text-base leading-[22.68px] text-justify md:text-left;
+}
+
+.wwiRoleHeading {
+  @apply font-semibold text-2xl;
+}

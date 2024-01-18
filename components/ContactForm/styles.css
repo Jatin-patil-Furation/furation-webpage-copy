@@ -1,0 +1,11 @@
+/* .intl-tel-input {
+  @apply border-b;
+}
+
+.form-control {
+  @apply outline-none focus:outline-none py-1;
+} */
+
+#Phone {
+  @apply w-full border-b text-sm outline-none focus:outline-none focus:border-b focus:border-black py-[7px];
+}

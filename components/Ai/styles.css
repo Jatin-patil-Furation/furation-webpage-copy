@@ -1,0 +1,24 @@
+.secondaryHeading {
+  @apply font-medium text-3xl md:text-4xl lg:text-5xl leading-[45px] md:leading-[62px] text-white;
+}
+
+.heading3 {
+  @apply font-semibold text-base md:text-xl lg:text-2xl;
+}
+
+.largeText {
+  @apply font-normal text-sm md:text-base lg:text-lg opacity-[80%] leading-[27px];
+}
+
+.smallText {
+  @apply font-normal text-sm md:text-base opacity-[70%];
+}
+
+.summaryDiv {
+  cursor: pointer;
+  transition: margin 300ms ease-out;
+}
+
+details[open] .summaryDiv {
+  margin-bottom: 10px;
+}
