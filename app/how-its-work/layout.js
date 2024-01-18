@@ -4,7 +4,7 @@ import "../globals.css";
 
 export const metadata = {
   // icons: [{ rel: "icon", url: "/next.svg" }],
-  title: "Furation Tech Solutions",
+  title: "Furation | how its work",
   description:
     "Transform your business with Furation Tech Solutions, a dynamic design and development studio offering comprehensive engineering services to startups, and empowering enterprises through digital transformation to elevate their operations.",
 };
