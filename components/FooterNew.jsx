@@ -61,7 +61,7 @@ const FooterNew = () => {
                     target="_blank"
                   >
                     {" "}
-                    <Image src={images.batch} width={80} height={80} />
+                    <Image src={"/assets/clutch.png"} width={80} height={80} />
                   </Link>
                   <div>
                     <i data-star="4.7"></i>
@@ -76,7 +76,7 @@ const FooterNew = () => {
                       href="https://www.bark.com/en/in/company/furation-tech-solutions-pvt-ltd/9wbbJ/"
                     >
                       <Image
-                        src={images.goldBarkBadge}
+                        src={"/assets/bark.png"}
                         height={100}
                         width={100}
                         alt="gold bark"

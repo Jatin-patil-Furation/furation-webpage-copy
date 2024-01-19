@@ -15,12 +15,12 @@ const Navbar = () => {
     { name: "What we do", link: "/#ourCoreServicesSection" },
     { name: "Tech stack", link: "/#techStack" },
     { name: "Solutions", link: "/#solutions" },
-    { name: "How we work", link: "/#dna" },
+    { name: "How we work", link: "/how-we-work" },
     { name: "Our team", link: "/our-team" },
     { name: "Startup", link: "#" },
   ];
 
-  console.log(navLinks.length, "length");
+  console.log(navLinks.length, "length"); 
 
   useEffect(() => {
     let navlinks = document.querySelectorAll(".navlinks");

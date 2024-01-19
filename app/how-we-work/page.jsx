@@ -36,7 +36,7 @@ const page = () => {
                   style={{ aspectRatio: "1/1" }}
                 />
                 <p className="font-extralight leading-4 md:leading-5 lg:leading-6 text-sm sm:text-base md:text-lg  lg:text-xl">
-                  Identifying the right areas for digitization
+                  Identifying the right areas for digitization.
                 </p>
               </div>
               <div className="flex   justify-start gap-5 items-start md:items-center">
@@ -45,7 +45,7 @@ const page = () => {
                   style={{ aspectRatio: "1/1" }}
                 />
                 <p className="font-extralight leading-4 md:leading-5 lg:leading-6 text-sm sm:text-base md:text-lg  lg:text-xl">
-                  Developing a clear roadmap for implementation
+                  Developing a clear roadmap for implementation.
                 </p>
               </div>
               <div className="flex   justify-start gap-5 items-start md:items-center">
@@ -54,7 +54,7 @@ const page = () => {
                   style={{ aspectRatio: "1/1" }}
                 />
                 <p className="font-extralight leading-4 md:leading-5 lg:leading-6 text-sm sm:text-base md:text-lg  lg:text-xl">
-                  Overcoming budget and resource constraints
+                  Overcoming budget and resource constraints.
                 </p>
               </div>
             </div>
@@ -172,7 +172,7 @@ const page = () => {
               <a
                 href="https://www.furation.tech/"
                 target="_blank"
-                className="bg-[#FF2424] w-[80%] mx-auto md:w-full text-white text-sm sm:text-base text-center md:text-lg lg:text-lg font-semibold px-2 py-3 md:px-10 md:py-1 rounded-[30px] md:absolute left-0 md:bottom-[3rem] lg:bottom-[-4rem]"
+                className="bg-[#FF2424] w-[80%] mx-auto  text-white text-sm sm:text-base text-center md:text-lg lg:text-lg font-semibold px-2 py-3 md:px-2 md:py-1  rounded-[30px] md:absolute left-0 md:bottom-[3rem] md:left-[1rem] lg:bottom-[-3rem]"
               >
                 Book 1-Hour FREE Consultation Call
               </a>
@@ -198,7 +198,7 @@ const page = () => {
                 />
                 <p className="font-extralight leading-4 md:leading-5 lg:leading-6 text-sm sm:text-base md:text-lg  lg:text-xl">
                   Up to 72% of software projects fail to fully achieve their
-                  original objectives or intended purpose
+                  original objectives or intended purpose.
                 </p>
               </div>
 
@@ -209,7 +209,7 @@ const page = () => {
                 />
                 <p className="font-extralight leading-4 md:leading-5 lg:leading-6 text-sm sm:text-base md:text-lg  lg:text-xl">
                   A significant 57% of project failures are due to communication
-                  breakdowns
+                  breakdowns.
                 </p>
               </div>
               <div className="flex justify-start gap-5 items-start">
@@ -219,13 +219,13 @@ const page = () => {
                 />
                 <p className="font-extralight leading-4 md:leading-5 lg:leading-6 text-sm sm:text-base md:text-lg  lg:text-xl">
                   Around 37% of IT projects fail due to a lack of involvement
-                  from senior management
+                  from senior management.
                 </p>
               </div>
             </div>
             <p className="font-extralight leading-4 md:leading-5 lg:leading-6 text-sm sm:text-base md:text-lg  lg:text-xl">
               Key Takeaway: Clearly defining and aligning project goals with
-              business objectives is crucial for success
+              business objectives is crucial for success.
             </p>
           </div>
           <div className="basis-[48%] flex flex-col p-5 sm:p-8 md:p-10 justify-start bg-[#1A1A1A] rounded-[20px]  gap-6 flex-1">
@@ -240,7 +240,7 @@ const page = () => {
                 />
                 <p className="font-extralight leading-4 md:leading-5 lg:leading-6 text-sm sm:text-base md:text-lg  lg:text-xl">
                   40-50% of projects miss their deadlines, leading to delays and
-                  cost overruns
+                  cost overruns.
                 </p>
               </div>
               <div className="flex justify-start gap-5 items-start">
@@ -249,7 +249,7 @@ const page = () => {
                   style={{ aspectRatio: "1/1" }}
                 />
                 <p className="font-extralight leading-4 md:leading-5 lg:leading-6 text-sm sm:text-base md:text-lg  lg:text-xl">
-                  21% of projects experience significant schedule overrun
+                  21% of projects experience significant schedule overrun.
                 </p>
               </div>
               <div className="flex justify-start gap-5 items-start">
@@ -280,7 +280,7 @@ const page = () => {
                   style={{ aspectRatio: "1/1" }}
                 />
                 <p className="font-extralight leading-4 md:leading-5 lg:leading-6 text-sm sm:text-base md:text-lg  lg:text-xl">
-                  Nearly 49% of software projects face budget overruns
+                  Nearly 49% of software projects face budget overruns.
                 </p>
               </div>
               <div className="flex justify-start gap-5 items-start">
@@ -289,7 +289,7 @@ const page = () => {
                   style={{ aspectRatio: "1/1" }}
                 />
                 <p className="font-extralight leading-4 md:leading-5 lg:leading-6 text-sm sm:text-base md:text-lg  lg:text-xl">
-                  33% of projects experience significant cost overruns
+                  33% of projects experience significant cost overruns.
                 </p>
               </div>
               <div className="flex justify-start gap-5 items-start">
@@ -320,7 +320,7 @@ const page = () => {
                 />
                 <p className="font-extralight leading-4 md:leading-5 lg:leading-6 text-sm sm:text-base md:text-lg  lg:text-xl">
                   45% of projects suffer from excessive change requests (CRs),
-                  causing rework and hindering progress
+                  causing rework and hindering progress.
                 </p>
               </div>
               <div className="flex justify-start gap-5 items-start">
@@ -329,7 +329,7 @@ const page = () => {
                   style={{ aspectRatio: "1/1" }}
                 />
                 <p className="font-extralight leading-4 md:leading-5 lg:leading-6 text-sm sm:text-base md:text-lg  lg:text-xl">
-                  37% of projects experience significant scope changes
+                  37% of projects experience significant scope changes.
                 </p>
               </div>
               <div className="flex justify-start gap-5 items-start">
